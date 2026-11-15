@@ -12,9 +12,9 @@ A personal repository for solving **programming, algorithmic, and problem-solvin
 
 The repository contains solutions to problems from platforms such as:
 
-- LeetCode
-- HackerRank
-- Exercism
+- [LeetCode](https://leetcode.com/u/oEnzoRibas/)
+- [HackerRank](https://www.hackerrank.com/profile/enzorochaleited1)
+- [Exercism](https://exercism.org/profiles/oEnzoRibas)
 
 The goal is not simply to collect accepted solutions, but to develop the ability to **analyze problems, design algorithms, reason about complexity, write clean implementations, and recognize recurring problem-solving patterns**.
 
